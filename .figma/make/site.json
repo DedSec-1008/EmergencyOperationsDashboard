@@ -1,0 +1,10 @@
+{
+  "description": "Streamline emergency relief coordination with a centralized platform that manages requests, resources, and dispatch for effective disaster response.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
